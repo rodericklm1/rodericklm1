@@ -1,6 +1,6 @@
 # Roderick Meadows
 
-**Enterprise Architect (AVP) at Commerce Bank** | Author of *Systems of Leverage* | CISSP
+**Enterprise Architect** | Author of *Systems of Leverage* | CISSP | 
 USAF Master Sergeant (Ret.) | Former TS/SCI
 
 I design deterministic-first AI infrastructure. My thesis is simple: **use AI where it earns its cost, and use code where code wins.**
@@ -34,7 +34,6 @@ flowchart TD
 
 ## Writing and Research
 
-- **Book:** *Systems of Leverage: The Timeless Architecture for Compounding Organizational Value*
 - **Preprints:** 6 DOI-registered papers on enterprise architecture, socio-technical debt, and operations integrity
 - **ORCID:** [0009-0002-1046-731X](https://orcid.org/0009-0002-1046-731X)
 
