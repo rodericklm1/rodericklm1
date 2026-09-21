@@ -1,7 +1,5 @@
 # Roderick Meadows
 
-**Enterprise Architect**
-
 I design deterministic-first AI infrastructure. My thesis is simple: **use AI where it earns its cost, and use code where code wins.**
 
 ## Currently Building
