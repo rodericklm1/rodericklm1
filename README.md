@@ -1,7 +1,6 @@
 # Roderick Meadows
 
-**Enterprise Architect** | Author of *Systems of Leverage* | CISSP | 
-USAF Master Sergeant (Ret.)
+**Enterprise Architect**
 
 I design deterministic-first AI infrastructure. My thesis is simple: **use AI where it earns its cost, and use code where code wins.**
 
